@@ -1,4 +1,6 @@
 # GoLang
 Golang practice repo
 
-Implemented the fractions multiplication module a. fractions module will consist of different operations for fraction b. testing module to test the individual operations (using golang's inbuilt testing package)
+Implemented the fractions multiplication module. The fractions are reduced to it's simplified form fisrt and are then multiplied to obtain the final result.
+Testing individual operations using golang's inbuilt testing package.
+
